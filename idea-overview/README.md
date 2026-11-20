@@ -14,11 +14,11 @@ The bigger problem is not just the amount of paperwork. It is the difficulty of 
 
 Common Challenges
 
-- Scattered information:** Financial data is spread across multiple documents and formats, making it difficult to get a complete picture.
-- Time-consuming verification:** Records often need to be manually compared to identify differences.
-- Hidden inconsistencies:** Duplicate entries, missing fields, or mismatched amounts can be overlooked in large volumes of data.
-- Late discovery of errors:** Problems may be noticed only when records are being prepared for accounting or compliance review.
-- Lack of actionable guidance:** Existing records may show information, but users may not know which issue to resolve first or why it matters.
+- Scattered information: Financial data is spread across multiple documents and formats, making it difficult to get a complete picture.
+- Time-consuming verification: Records often need to be manually compared to identify differences.
+- Hidden inconsistencies: Duplicate entries, missing fields, or mismatched amounts can be overlooked in large volumes of data.
+- Late discovery of errors: Problems may be noticed only when records are being prepared for accounting or compliance review.
+- Lack of actionable guidance: Existing records may show information, but users may not know which issue to resolve first or why it matters.
 
 
 
